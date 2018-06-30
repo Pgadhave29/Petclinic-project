@@ -1,7 +1,7 @@
 version: '3'
 services:
   applicationserver:
-    image: ganeshhp/maven-petclinic-project:latest
+    image:docker29031995/petclinic-project1:latest
     ports:
     - "9150:8080"
 
